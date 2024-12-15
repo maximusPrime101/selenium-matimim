@@ -1,0 +1,11 @@
+# Ignore Eclipse files
+/matimim-selenium-automation/.settings/
+/matimim-selenium-automation/.classpath
+/matimim-selenium-automation/.project
+
+# Ignore Maven output
+/matimim-selenium-automation/target/
+
+
+# Ignore Test Output
+/matimim-selenium-automation/test-output
